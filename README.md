@@ -2,11 +2,30 @@
   多媒体格式转换工具集：一个基于 FFmpeg 的图形界面工具集，支持视频和图片格式的快速转换，操作简单且功能丰富。
   
 ## 功能特点
-  视频格式转换：支持 MP4、AVI、MOV、FLV、MKV 等常见视频格式互转
-  图片格式转换：支持 PNG、JPG、WebP、BMP、TIFF 等图片格式转换
-  批量处理：图片转换器支持多文件批量转换
-  进度显示：实时展示转换进度和详细日志
-  中文支持：支持中文路径和文件名，解决编码问题
+  （1）视频格式转换：支持 MP4、AVI、MOV、FLV、MKV 等常见视频格式互转
+  
+  （2）图片格式转换：支持 PNG、JPG、WebP、BMP、TIFF 等图片格式转换
+  
+  （3）批量处理：图片转换器支持多文件批量转换
+  
+  （4）进度显示：实时展示转换进度和详细日志
+  
+  （5）中文支持：支持中文路径和文件名，解决编码问题
+
+## 运行截图
+
+<img width="815" height="603" alt="image" src="https://github.com/user-attachments/assets/84d90165-38d9-4807-bbf7-bc1cabce0c9d" />
+
+
+<img width="302" height="191" alt="image" src="https://github.com/user-attachments/assets/d2d548fa-9dfe-4098-a857-794c0dbf1110" />
+
+
+<img width="753" height="540" alt="image" src="https://github.com/user-attachments/assets/9fb56b03-ddaa-4582-bef7-4afe18c03029" />
+
+
+<img width="316" height="146" alt="image" src="https://github.com/user-attachments/assets/37e9596c-0127-4857-a133-10f655a7e298" />
+
+
 
 ## 安装与使用
 ### 前置条件
